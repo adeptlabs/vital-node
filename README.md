@@ -65,7 +65,7 @@ import { VitalClient, VitalEnvironment } from '@tryvital/vital-node';
 
 const vital = new VitalClient({
     apiKey: 'YOUR_API_KEY',
-    environmment: VitalEnvironment.Sandbox,
+    environment: VitalEnvironment.Sandbox,
 });
 ```
 
